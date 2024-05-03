@@ -21,7 +21,7 @@ Sau bài thực hành này, sinh viên sẽ nắm được nguyên lý cơ bản
 ### Home Assignment 1
 Tìm hiểu các thành phần cơ bản của máy tính, mô hình lập trình của máy tính - luồng thực thi của chương trình (Cách chương trình thực hiện trong máy tính) và kiến trúc tập lệnh (Instruction set architecture).
 
-![pic2_1!](/images/pic2_1.png)
+![pic2_1!](../images/pic2_1.png)
 
 ### Home Assignment 2
 Từ mô hình lập trình của máy tính, đọc tài liệu về kiến trúc RISC-V và ghi nhớ các kiến thức cơ bản sau:
@@ -32,12 +32,12 @@ Từ mô hình lập trình của máy tính, đọc tài liệu về kiến tr�
 - Kiến trúc RV32I, extension mở rộng hỗ trợ phép nhân (Multiplication Extension)
 - Khuôn dạng lệnh của các loại lệnh: R, I, S, B, U, J.
 
-![pic2_2!](/images/pic2_2.png)
+![pic2_2!](../images/pic2_2.png)
 
 ### Home Assignment 3
 Mở menu Help trong RARS để tìm hiểu về các lệnh cơ bản và các chỉ thị biên dịch.
 
-![pic2_3!](/images/pic2_3.png)
+![pic2_3!](../images/pic2_3.png)
 
 ---
 
