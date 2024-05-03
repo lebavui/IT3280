@@ -1,10 +1,16 @@
 ---
 layout: page
-title: Lab 1
+title: Lab 1 - Hướng dẫn sử dụng phần mềm RARS
 permalink: /lab1/
 ---
 
+## Mục đích
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+---
+
+## Tài liệu
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
