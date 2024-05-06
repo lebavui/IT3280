@@ -2,6 +2,7 @@
 layout: page
 title: Lab 2 - Tập lệnh, các lệnh cơ bản, các chỉ thị biên dịch
 permalink: /lab2/
+nav_order: 2
 ---
 
 ## Mục đích

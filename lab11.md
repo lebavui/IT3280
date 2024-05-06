@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lab 5 - Các hàm dịch vụ hệ thống
-permalink: /lab5/
-nav_order: 5
+title: Lab 11 - Thăm dò và ngắt
+permalink: /lab11/
+nav_order: 9
 ---
 
-# Bài 5 - Các hàm dịch vụ hệ thống
+# Bài 11 - Thăm dò và ngắt
 
 ## Mục đích
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lab 5 - Các hàm dịch vụ hệ thống
-permalink: /lab5/
-nav_order: 5
+title: Lab 7 - Chương trình con và ngăn xếp
+permalink: /lab7/
+nav_order: 7
 ---
 
-# Bài 5 - Các hàm dịch vụ hệ thống
+# Bài 7 - Chương trình con và ngăn xếp
 
 ## Mục đích
 

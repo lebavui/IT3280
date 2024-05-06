@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lab 5 - Các hàm dịch vụ hệ thống
-permalink: /lab5/
-nav_order: 5
+title: Lab 12 - Bộ nhớ cache
+permalink: /lab12/
+nav_order: 10
 ---
 
-# Bài 5 - Các hàm dịch vụ hệ thống
+# Bài 12 - Bộ nhớ cache
 
 ## Mục đích
 

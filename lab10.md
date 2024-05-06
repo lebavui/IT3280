@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lab 5 - Các hàm dịch vụ hệ thống
-permalink: /lab5/
-nav_order: 5
+title: Lab 10 - Các thiết bị ngoại vi
+permalink: /lab10/
+nav_order: 8
 ---
 
-# Bài 5 - Các hàm dịch vụ hệ thống
+# Bài 10 - Các thiết bị ngoại vi
 
 ## Mục đích
 

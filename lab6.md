@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lab 5 - Các hàm dịch vụ hệ thống
-permalink: /lab5/
-nav_order: 5
+title: Lab 6 - Mảng và con trỏ
+permalink: /lab6/
+nav_order: 6
 ---
 
-# Bài 5 - Các hàm dịch vụ hệ thống
+# Bài 6 - Mảng và con trỏ
 
 ## Mục đích
 

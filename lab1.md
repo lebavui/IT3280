@@ -2,6 +2,7 @@
 layout: page
 title: Lab 1 - Giới thiệu công cụ giả lập RARS
 permalink: /lab1/
+nav_order: 1
 ---
 
 ## Mục đích

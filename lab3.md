@@ -2,6 +2,7 @@
 layout: page
 title: Lab 3 - Các lệnh nhảy và lệnh rẽ nhánh
 permalink: /lab3/
+nav_order: 3
 ---
 
 ## Mục đích

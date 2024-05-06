@@ -2,6 +2,7 @@
 layout: page
 title: Lab 4 - Các lệnh số học và logic
 permalink: /lab4/
+nav_order: 4
 ---
 
 ## Mục đích
