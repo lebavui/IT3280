@@ -5,6 +5,8 @@ permalink: /lab4/
 nav_order: 4
 ---
 
+# Bài 4 - Các lệnh số học và logic
+
 ## Mục đích
 Sau bài thực hành này, sinh viên hiểu được cách sử dụng các lệnh số học (arithmetic instruction), lệnh logic (logical instruction) và lệnh dịch bit (shift instruction). Từ đó, sinh viên cũng hiểu về hiện tượng tràn số học (overflow, carry out) và cách xác định khi tràn số xảy ra.
 

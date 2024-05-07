@@ -5,6 +5,8 @@ permalink: /lab3/
 nav_order: 3
 ---
 
+# Bài 3 - Các lệnh nhảy và lệnh rẽ nhánh
+
 ## Mục đích
 Sau bài thực hành này, sinh viên sẽ hiểu và biết cách sử dụng các lệnh nhảy và lệnh rẽ nhánh. Từ đó, sinh viên có thể thực hiện các câu lệnh điều khiển, vòng lặp trong ngôn ngữ lập trình bậc cao bằng hợp ngữ, hiểu bản chất của các lệnh đó khi thực hiện trong máy tính.
 

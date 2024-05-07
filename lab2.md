@@ -5,6 +5,8 @@ permalink: /lab2/
 nav_order: 2
 ---
 
+# Bài 2 - Tập lệnh, các lệnh cơ bản, các chỉ thị biên dịch
+
 ## Mục đích
 
 Sau bài thực hành này, sinh viên sẽ nắm được nguyên lý cơ bản về cách CPU thực hiện lệnh, tập lệnh của bộ xử lý kiến trúc RISC-V; sử dụng các lệnh hợp ngữ cơ bản và sử dụng công cụ gỡ rối để kiểm nghiệm lại các kiến thức về tập lệnh và hợp ngữ. Sinh viên cũng thành thạo với các chỉ thị biên dịch (Directive) để công cụ RARS có thể dịch thành mã máy một cách đúng đắn.

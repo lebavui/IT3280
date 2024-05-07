@@ -5,6 +5,8 @@ permalink: /lab1/
 nav_order: 1
 ---
 
+# Bài 1 - Giới thiệu công cụ giả lập RARS
+
 ## Mục đích
 
 Sau bài thực hành này, sinh viên sẽ cài đặt được công cụ RARS, viết thử chương trình đơn giản để thử nghiệm công cụ RARS như lập trình hợp ngữ, chạy giả lập, gỡ rối, và các phương tiện nhằm hiểu rõ hơn về bản chất và các hoạt động thực sự đã xảy ra trong bộ xử lý.
