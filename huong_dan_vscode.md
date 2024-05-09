@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sử dụng Visual Studio Code và PlatformIO extension để lập trình hợp ngữ và gỡ lỗi trên ESP32-C3
+title: Sử dụng VS Code và PlatformIO để lập trình hợp ngữ và gỡ lỗi
 permalink: /huong-dan-vscode/
 nav_order: 20
 ---
@@ -23,3 +23,7 @@ nav_order: 20
         - Chạy từng lệnh hợp ngữ. **Chú ý: Các lệnh hợp ngữ có thể được dịch thành lệnh 32-bit hoặc lệnh nén 16-bit**
         - Theo dõi giá trị các thanh ghi
         - Quan sát một vùng nhớ trong bộ nhớ
+
+**Chú ý:**
+Cấu hình mặc định sử dụng kiến trúc tập lệnh **rv32imc** nên các lệnh có thể được dịch thành mã máy 16-bit để tối ưu bộ nhớ.
+Để cấu hình chỉ dịch thành mã máy 32-bit, mở file **platformio-build-esp32c3.py** trong thư mục "C:\Users\YOUR_USERNAME\\.platformio\packages\framework-arduinoespressif32\tools", rồi chuyển các tham số "-march=rv32imc" thành "-march=rv32im".
